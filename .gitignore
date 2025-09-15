@@ -1,0 +1,23 @@
+# OS
+.DS_Store
+
+# Virtual env
+Code/venv/
+
+# Python cache
+**/__pycache__/
+
+# Logs and outputs
+Code/logs/
+output/
+*.log
+
+# Models and artifacts
+Code/*.keras
+Code/*.h5
+Code/*.pickle
+*.mp4
+
+# Local data dirs
+train/
+test1/
